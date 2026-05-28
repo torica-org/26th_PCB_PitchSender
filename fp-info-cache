@@ -1,4 +1,4 @@
-27332565597431720
+27336125313629955
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107905,6 +107905,13 @@ Varistor VF
 2
 2
 lib
+B03B-PASK-1
+Header 3 pin, top entry type, 2mm pitch.
+
+0
+3
+3
+lib
 JLCPCB(9mm)
 
 
@@ -107939,3 +107946,10 @@ REWRITE_LOGO
 0
 0
 0
+lib
+S03B-PASK-2
+Header 3 pin, side entry type, 2mm pitch.
+
+0
+3
+3

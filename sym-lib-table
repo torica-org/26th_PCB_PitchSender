@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "ESP32-DEVKITC-32E")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32-DEVKITC-32E.kicad_sym")(options "")(descr ""))
   (lib (name "S04B-PASK-2_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/lib/S04B-PASK-2_LF__SN_.kicad_sym")(options "")(descr ""))
+  (lib (name "B03B-PASK-1")(type "KiCad")(uri "${KIPRJMOD}/lib/B03B-PASK-1.kicad_sym")(options "")(descr ""))
+  (lib (name "S03B-PASK-2")(type "KiCad")(uri "${KIPRJMOD}/lib/S03B-PASK-2.kicad_sym")(options "")(descr ""))
 )
